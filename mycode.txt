@@ -1,0 +1,4 @@
+a = 0
+For i = 1 to 100
+a = a + 1
+next i
