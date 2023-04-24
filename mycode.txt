@@ -4,3 +4,4 @@ a = a + 1
 next i
 
 b = b + 1
+c = c + 1
